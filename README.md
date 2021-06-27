@@ -90,7 +90,7 @@ BLOG-POST-LIST:END -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arpit-2678&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Arpit-2678.vercel.app/api?username=Arpit-2678&show_icons=true&hide_border=true" />
 
 </details>
 
