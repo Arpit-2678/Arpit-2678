@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="data:image/png;base64,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" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -90,7 +90,7 @@ BLOG-POST-LIST:END -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit-2678)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit-2678)](https://github.com/anuraghazra/github-readme-stats) -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit-2678&show_icons=true&theme=radical)
 
 
