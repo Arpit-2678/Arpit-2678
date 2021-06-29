@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][youtube]
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
