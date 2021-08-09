@@ -1,6 +1,6 @@
 ### Hi there, I'm Arpit Dwivedi - aka [Arpit-2678] 👋
 
-## I'm a Competitive Programmer, Student, Developer, and Teacher!!
+## I'm a Competitive Programmer, Student, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
