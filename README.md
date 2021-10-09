@@ -11,7 +11,7 @@
 
 ## By the way here are some of my statistics 🚀
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=Arpit-2678&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-2678&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-2678&theme=tokyonight" alt="mystreak" width="450px" height="450px" align="right"/>
 ![Arpit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-2678&theme=tokyonight&layout=compact)
 
 
